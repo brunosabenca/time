@@ -1,0 +1,11 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+#time {
+    max-width: 50%;
+}
